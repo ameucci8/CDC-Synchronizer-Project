@@ -1,0 +1,2776 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/andre/OneDrive/Documents/VScode/ecse_398_cdc/ecse398cdc
+vadder_n_bit
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+!s110 1729705896
+!i10b 1
+!s100 ko1z>gXagN:]I=4Ug1lS^2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IJFm60`Y3EC;g:<c>ACfk=1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+w1727716411
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\adder_n_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\adder_n_bit.sv
+!i122 10517
+Z4 L0 1 49
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1729705894.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\adder_n_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\adder_n_bit.sv|
+!i113 1
+Z6 tCvgOpt 0
+vadder_n_bit_tb
+R1
+!s110 1729705978
+!i10b 1
+!s100 FnWO::^z1`aX=:FGLJ:O^3
+R2
+Im0GbYIl2lKJTR]RmkjO@G2
+R3
+S1
+R0
+w1727539111
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\adder_n_bit_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\adder_n_bit_tb.sv
+!i122 10565
+Z7 L0 1 60
+R5
+r1
+!s85 0
+31
+!s108 1729705976.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\adder_n_bit_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\adder_n_bit_tb.sv|
+!i113 1
+R6
+valu
+R1
+!s110 1729705883
+!i10b 1
+!s100 []7GOkOPTMhQ3QU64l=6i3
+R2
+I3WVQAXTGD;OnP4_M2BC<]0
+R3
+S1
+R0
+w1728436207
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu.sv
+!i122 10509
+L0 2 301
+R5
+r1
+!s85 0
+31
+!s108 1729705882.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu.sv|
+!i113 1
+R6
+valu_tb
+R1
+!s110 1729705979
+!i10b 1
+!s100 bjhgSMB^_H30:3[D^P:Jb2
+R2
+I8==9N_kCCh0SKDbll2i1D0
+R3
+S1
+R0
+w1728436645
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\alu_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\alu_tb.sv
+!i122 10566
+L0 3 348
+R5
+r1
+!s85 0
+31
+!s108 1729705978.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\alu_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\alu_tb.sv|
+!i113 1
+R6
+vand_gate
+R1
+!s110 1727036125
+!i10b 1
+!s100 W5Kf3J[k`1?:Vl>lBhMIb1
+R2
+I1<=a_IlT9bdf4lRgZRBgm2
+R3
+S1
+R0
+w1727034341
+8and_gate.sv
+Fand_gate.sv
+!i122 41
+L0 1 30
+R5
+r1
+!s85 0
+31
+!s108 1727036125.000000
+!s107 mux_4_to_1.sv|mux_2_to_1.sv|full_adder.sv|and_gate.sv|alu.sv|adder_n_bit_tb.sv|adder_n_bit.sv|
+!s90 adder_n_bit.sv|adder_n_bit_tb.sv|alu.sv|and_gate.sv|full_adder.sv|mux_2_to_1.sv|mux_4_to_1.sv|
+!i113 1
+R6
+vand_op
+R1
+!s110 1729705897
+!i10b 1
+!s100 JAYFUk@<S9TTS3@llIdgm0
+R2
+IV8G<dVP_L9dRc=7nD]nAQ1
+R3
+S1
+R0
+w1727111674
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\and_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\and_op.sv
+!i122 10518
+Z8 L0 1 17
+R5
+r1
+!s85 0
+31
+!s108 1729705896.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\and_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\and_op.sv|
+!i113 1
+R6
+vasynchronous_fifo
+R1
+!s110 1731784208
+!i10b 1
+!s100 T0[GG2[5GbJd5jJkQReWL3
+R2
+Ijc6M]^XnKGGRGUQ:Qm=2B2
+R3
+S1
+R0
+w1731782392
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\asynchronous_fifo.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\asynchronous_fifo.sv
+!i122 11455
+L0 1 127
+R5
+r1
+!s85 0
+31
+!s108 1731784206.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\asynchronous_fifo.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\asynchronous_fifo.sv|
+!i113 1
+R6
+vasynchronous_fifo_tb
+R1
+!s110 1731784210
+!i10b 1
+!s100 e?bU<<QPNclJdzIHJ0T[d3
+R2
+IDdD4=;Z<kHFMVJf@^ZDam0
+R3
+S1
+R0
+w1731784170
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\asynchronous_fifo_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\asynchronous_fifo_tb.sv
+!i122 11456
+L0 1 144
+R5
+r1
+!s85 0
+31
+!s108 1731784208.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\asynchronous_fifo_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\asynchronous_fifo_tb.sv|
+!i113 1
+R6
+vbinary_to_gray
+R1
+!s110 1731784197
+!i10b 1
+!s100 RE3OoCW=XkOB8zzA^;EoC1
+R2
+I_0SI2@k]Eo]39e8C2S_ke3
+R3
+S1
+R0
+Z9 w1731684980
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\binary_to_gray.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\binary_to_gray.sv
+!i122 11449
+Z10 L0 1 18
+R5
+r1
+!s85 0
+31
+!s108 1731784196.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\binary_to_gray.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\binary_to_gray.sv|
+!i113 1
+R6
+vbranch_control_unit
+R1
+!s110 1730141827
+!i10b 1
+!s100 maJcVh_:iJ5?`U`]EP^3a0
+R2
+I1B:MRjeJY^5=PF8gfM9mZ0
+R3
+S1
+R0
+w1730135920
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\branch_control_unit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\branch_control_unit.sv
+!i122 10972
+Z11 L0 1 37
+R5
+r1
+!s85 0
+31
+!s108 1730141825.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\branch_control_unit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\branch_control_unit.sv|
+!i113 1
+R6
+vcomparison_flags
+R1
+!s110 1729705887
+!i10b 1
+!s100 T4Uj^`ehbC61Z[AIlPAA@1
+R2
+I=0mMTO`zT_Wed=Rz;NV=k2
+R3
+S1
+R0
+w1727716454
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\comparison_flags.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\comparison_flags.sv
+!i122 10511
+L0 1 55
+R5
+r1
+!s85 0
+31
+!s108 1729705885.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\comparison_flags.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\comparison_flags.sv|
+!i113 1
+R6
+vcontrol_unit
+R1
+!s110 1733286345
+!i10b 1
+!s100 ?Dz[Nh7:9U:GUc]U1eF=i0
+R2
+Im`n;C;7SInRhe4bhomYma3
+R3
+S1
+R0
+w1733112567
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\control_unit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\control_unit.sv
+!i122 12455
+L0 1 154
+R5
+r1
+!s85 0
+31
+!s108 1733286343.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\control_unit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\control_unit.sv|
+!i113 1
+R6
+vd_flip_flop
+R1
+!s110 1729705929
+!i10b 1
+!s100 Xne>od@MVB6T^5l^QfJlN2
+R2
+ID^QaKJHC:mIQ5>XFWFZBa2
+R3
+S1
+R0
+w1727898085
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_flip_flop.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_flip_flop.sv
+!i122 10537
+Z12 L0 1 15
+R5
+r1
+!s85 0
+31
+!s108 1729705927.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_flip_flop.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_flip_flop.sv|
+!i113 1
+R6
+vd_flip_flop_tb
+R1
+!s110 1729705984
+!i10b 1
+!s100 52Ez=E;B[9WP>UE9HGLg@0
+R2
+Id2TQ^UHK78C5BAHh0A5JI3
+R3
+S1
+R0
+w1727896905
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_flip_flop_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_flip_flop_tb.sv
+!i122 10569
+Z13 L0 1 43
+R5
+r1
+!s85 0
+31
+!s108 1729705982.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_flip_flop_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_flip_flop_tb.sv|
+!i113 1
+R6
+vd_latch
+R1
+!s110 1729705930
+!i10b 1
+!s100 3<GNhRm[@OIdVVR4z`:mY2
+R2
+I`GV3n6i:jX<jIobJmVGn`2
+R3
+S1
+R0
+w1729213769
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_lacth.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_lacth.sv
+!i122 10538
+R8
+R5
+r1
+!s85 0
+31
+!s108 1729705929.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_lacth.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\d_lacth.sv|
+!i113 1
+R6
+vd_latch_tb
+R1
+!s110 1729705986
+!i10b 1
+!s100 ZeH`DN@UjmP32CVLDFmS`1
+R2
+In=?bh1z<PI;MGdk[N>3IH1
+R3
+S1
+R0
+w1729214191
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_latch_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_latch_tb.sv
+!i122 10570
+R13
+R5
+r1
+!s85 0
+31
+!s108 1729705984.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_latch_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\d_latch_tb.sv|
+!i113 1
+R6
+vdecoder
+R1
+!s110 1729705890
+!i10b 1
+!s100 cLhl6?@Ka26_Cc>lF]R2W1
+R2
+IKbkNXbLRPmjn0YzJ2nQBf3
+R3
+S1
+R0
+w1728429543
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\decoder.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\decoder.sv
+!i122 10513
+Z14 L0 1 25
+R5
+r1
+!s85 0
+31
+!s108 1729705888.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\decoder.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\decoder.sv|
+!i113 1
+R6
+vdecoder_1_to_2
+R1
+!s110 1729705953
+!i10b 1
+!s100 DjQ9CFk=Ck<cM>2c6dCK[2
+R2
+IKd3H;TH4hbg<8ojI^G6E21
+R3
+S1
+R0
+w1728942223
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_1_to_2.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_1_to_2.sv
+!i122 10552
+L0 1 13
+R5
+r1
+!s85 0
+31
+!s108 1729705952.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_1_to_2.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_1_to_2.sv|
+!i113 1
+R6
+vdecoder_1_to_2_tb
+R1
+!s110 1728943294
+!i10b 1
+!s100 X_3zU899cB]8nD@hm7o[j1
+R2
+IOC>dF_:1Y:9ZOoo1AS=IF0
+R3
+S1
+R0
+w1728942232
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_1_to_2_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_1_to_2_tb.sv
+!i122 6188
+Z15 L0 1 50
+R5
+r1
+!s85 0
+31
+!s108 1728943293.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_1_to_2_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_1_to_2_tb.sv|
+!i113 1
+R6
+vdecoder_3_to_8
+R1
+!s110 1728612472
+!i10b 1
+!s100 TVnPBJRZ;`TF3hLUOOLQ12
+R2
+IM2d4HcC_?:GkA91h_i<Xl0
+R3
+S1
+R0
+Z16 w1728429128
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\instructionmemory\decoder_3_to_8.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\instructionmemory\decoder_3_to_8.sv
+!i122 4952
+R12
+R5
+r1
+!s85 0
+31
+!s108 1728612471.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\instructionmemory\decoder_3_to_8.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\instructionmemory\decoder_3_to_8.sv|
+!i113 1
+R6
+vdecoder_logN_to_N
+R1
+!s110 1729705955
+!i10b 1
+!s100 L?z2AGS1<M[TbGX`2U1Bk1
+R2
+IPghFgCV?;DZ?EQ_5M@Tn>3
+R3
+S1
+R0
+w1728943236
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_logN_to_N.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_logN_to_N.sv
+!i122 10553
+Z17 L0 1 28
+R5
+r1
+!s85 0
+31
+!s108 1729705953.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_logN_to_N.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_logN_to_N.sv|
+!i113 1
+R6
+ndecoder_log@n_to_@n
+vdecoder_logN_to_N_tb
+R1
+!s110 1729705981
+!i10b 1
+!s100 BQ^>ki@QY]X=3b=onb:>V2
+R2
+IRh^TJ>B2_RW`C98G@T?@Q2
+R3
+S1
+R0
+w1728666755
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_logN_to_N_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_logN_to_N_tb.sv
+!i122 10567
+Z18 L0 1 51
+R5
+r1
+!s85 0
+31
+!s108 1729705979.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_logN_to_N_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_logN_to_N_tb.sv|
+!i113 1
+R6
+ndecoder_log@n_to_@n_tb
+vdecoder_submodule
+R1
+!s110 1729705957
+!i10b 1
+!s100 0<[Z[agW0WV44hP;5Qk`j2
+R2
+I7L`GGCche61Giz77O:?J22
+R3
+S1
+R0
+w1728667274
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_submodule.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_submodule.sv
+!i122 10554
+Z19 L0 1 23
+R5
+r1
+!s85 0
+31
+!s108 1729705955.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_submodule.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\decoder_submodule.sv|
+!i113 1
+R6
+vdecoder_submodule_tb
+R1
+!s110 1728943296
+!i10b 1
+!s100 `fBG8MD^^4]EKh;QQl3893
+R2
+I^FBKNTLPBZNV=k=5@PaOf2
+R3
+S1
+R0
+w1728942640
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_submodule_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_submodule_tb.sv
+!i122 6190
+L0 1 66
+R5
+r1
+!s85 0
+31
+!s108 1728943295.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_submodule_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_submodule_tb.sv|
+!i113 1
+R6
+vdecoder_tb
+R1
+!s110 1729705982
+!i10b 1
+!s100 Y:i8lNnLGkQ>9BOA=XdLT0
+R2
+I<zB@G9YMWM[[<]5ez;o5[0
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_tb.sv
+!i122 10568
+Z20 L0 1 39
+R5
+r1
+!s85 0
+31
+!s108 1729705981.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\decoder_tb.sv|
+!i113 1
+R6
+vfetch_stage
+R1
+!s110 1729705891
+!i10b 1
+!s100 RbbYaYa<Ai7J5AR5jTb8U0
+R2
+I81omWIh8QZn586[8`[ZQ[2
+R3
+S1
+R0
+w1727895500
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\fetch_stage.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\fetch_stage.sv
+!i122 10514
+L0 1 38
+R5
+r1
+!s85 0
+31
+!s108 1729705890.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\fetch_stage.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\fetch_stage.sv|
+!i113 1
+R6
+vfifo_memory
+R1
+!s110 1731784204
+!i10b 1
+!s100 oIE3z1KVVo:STEg]Yk4lb3
+R2
+I;?SF^I]3SZZB5iS]@;2c@3
+R3
+S1
+R0
+w1731713276
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_memory.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_memory.sv
+!i122 11453
+Z21 L0 1 73
+R5
+r1
+!s85 0
+31
+!s108 1731784203.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_memory.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_memory.sv|
+!i113 1
+R6
+vfifo_memory_tb
+R1
+!s110 1731784206
+!i10b 1
+!s100 HZJmz6Eg@CW1]68IgOTjZ1
+R2
+I_S:D4VMM7D`KMCI]^1FnJ3
+R3
+S1
+R0
+w1731730784
+Z22 8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_memory_tb.sv
+Z23 FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_memory_tb.sv
+!i122 11454
+L0 1 99
+R5
+r1
+!s85 0
+31
+!s108 1731784205.000000
+Z24 !s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_memory_tb.sv|
+Z25 !s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_memory_tb.sv|
+!i113 1
+R6
+vfifo_read_pointer_empty
+R1
+!s110 1731784203
+!i10b 1
+!s100 FMj0fLVQUezK;HKcf3DkH1
+R2
+I;[5PLoTlCRZJ32IKjf:cX3
+R3
+S1
+R0
+w1731697688
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_read_pointer_empty.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_read_pointer_empty.sv
+!i122 11452
+L0 1 93
+R5
+r1
+!s85 0
+31
+!s108 1731784201.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_read_pointer_empty.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_read_pointer_empty.sv|
+!i113 1
+R6
+vfifo_read_pointer_empty_tb
+R1
+!s110 1731784201
+!i10b 1
+!s100 H4<;>Q14kll0aNMWYFI?l0
+R2
+I9L[Qj2j?z2;2NF8;=?:Ud1
+R3
+S1
+R0
+w1731699653
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_read_pointer_empty_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_read_pointer_empty_tb.sv
+!i122 11451
+R21
+R5
+r1
+!s85 0
+31
+!s108 1731784199.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_read_pointer_empty_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_read_pointer_empty_tb.sv|
+!i113 1
+R6
+vfifo_write_pointer_full
+R1
+!s110 1731784196
+!i10b 1
+!s100 ^JObg[mI7Cb>=gH8=?X4c0
+R2
+I>fDC:DYB`@OSgK^^K2kdE0
+R3
+S1
+R0
+w1731696903
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_write_pointer_full.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_write_pointer_full.sv
+!i122 11448
+L0 1 100
+R5
+r1
+!s85 0
+31
+!s108 1731784194.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_write_pointer_full.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\fifo_write_pointer_full.sv|
+!i113 1
+R6
+vfifo_write_pointer_full_tb
+R1
+!s110 1731698974
+!i10b 1
+!s100 77JWYi3CfdEDi<Xi?z1N<3
+R2
+I8o_iWRS4BF?_z3TAdR0Cn3
+R3
+S1
+R0
+w1731696432
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_write_pointer_full_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_write_pointer_full_tb.sv
+!i122 11257
+L0 1 74
+R5
+r1
+!s85 0
+31
+!s108 1731698972.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_write_pointer_full_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\fifo_write_pointer_full_tb.sv|
+!i113 1
+R6
+vfull_addder
+R1
+!s110 1726855963
+!i10b 1
+!s100 NA<^dZTLleiUM]3iVHhBQ1
+R2
+I]TmNbF?o`igA4=bK]O<Xc3
+R3
+S1
+R0
+w1726855061
+8full_adder.sv
+Ffull_adder.sv
+!i122 9
+L0 3 20
+R5
+r1
+!s85 0
+31
+!s108 1726855963.000000
+!s107 full_adder_tb.sv|full_adder.sv|
+!s90 full_adder.sv|full_adder_tb.sv|
+!i113 1
+R6
+vfull_adder
+R1
+!s110 1729705935
+!i10b 1
+!s100 E<lO1]nL`:am?dNh0hBO>3
+R2
+Im<aOFR:2T;dHEH5LGZ0QM1
+R3
+S1
+R0
+w1728942161
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\full_adder.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\full_adder.sv
+!i122 10541
+Z26 L0 1 20
+R5
+r1
+!s85 0
+31
+!s108 1729705934.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\full_adder.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\full_adder.sv|
+!i113 1
+R6
+vfull_adder_cell
+R1
+Z27 !s110 1726859415
+!i10b 1
+!s100 ^m>f>1:SBKS^Kb`V:MbTZ3
+R2
+IZzbKlTiOzaK:bP2koQIfE0
+R3
+S1
+R0
+w1726856681
+8full_adder_cell.sv
+Ffull_adder_cell.sv
+!i122 34
+L0 2 20
+R5
+r1
+!s85 0
+31
+Z28 !s108 1726859415.000000
+Z29 !s107 full_adder_tb.sv|full_adder_cell.sv|full_adder.sv|
+Z30 !s90 full_adder.sv|full_adder_cell.sv|full_adder_tb.sv|
+!i113 1
+R6
+vfull_adder_tb
+R1
+R27
+!i10b 1
+!s100 f;D[O2BSEaiOoRIg454:k1
+R2
+IG:N:okG;KQ`]R];VQ<C6B1
+R3
+S1
+R0
+w1726859410
+8full_adder_tb.sv
+Ffull_adder_tb.sv
+!i122 34
+R7
+R5
+r1
+!s85 0
+31
+R28
+R29
+R30
+!i113 1
+R6
+vgray_to_binary
+R1
+!s110 1731784199
+!i10b 1
+!s100 EYlaMMELZW6CW_UZN9UV00
+R2
+Iz9keLSFI^<EJ8Wi0PRlh]0
+R3
+S1
+R0
+R9
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\gray_to_binary.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\gray_to_binary.sv
+!i122 11450
+R10
+R5
+r1
+!s85 0
+31
+!s108 1731784197.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\gray_to_binary.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\synchronizer_components\gray_to_binary.sv|
+!i113 1
+R6
+vinstruction_memory
+R1
+!s110 1729705958
+!i10b 1
+!s100 ??L_Ch;Y?G=YTeFczViRU1
+R2
+IzFhO8KYE?maE>Ig9IO7Y73
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory.sv
+!i122 10555
+Z31 L0 1 45
+R5
+r1
+!s85 0
+31
+!s108 1729705957.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory.sv|
+!i113 1
+R6
+vinstruction_memory_tb
+R1
+!s110 1729705960
+!i10b 1
+!s100 >N7iDQbK^6LD=YTQh?7[?3
+R2
+IBGILQmzlhH@1S@iL6<n3D1
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory_tb.sv
+!i122 10556
+L0 1 54
+R5
+r1
+!s85 0
+31
+!s108 1729705958.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\instruction_memory_tb.sv|
+!i113 1
+R6
+vless_than
+R1
+!s110 1730057620
+!i10b 1
+!s100 mga284?RMX=eeiN7ZQO9V0
+R2
+IdN7;ojbgi1L:AHfkdJK1m2
+R3
+S1
+R0
+w1730057545
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than.sv
+!i122 10825
+R18
+R5
+r1
+!s85 0
+31
+!s108 1730057619.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than.sv|
+!i113 1
+R6
+vless_than_unsigned
+R1
+!s110 1730074055
+!i10b 1
+!s100 9O89>VYV@6@c[kJbRMOg`1
+R2
+IoKLdIezG<JgbCb9z2>:Vj2
+R3
+S1
+R0
+w1730060099
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than_unsigned.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than_unsigned.sv
+!i122 10867
+R15
+R5
+r1
+!s85 0
+31
+!s108 1730074053.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than_unsigned.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\less_than_unsigned.sv|
+!i113 1
+R6
+vmemory
+R1
+!s110 1733286341
+!i10b 1
+!s100 _UaR_`FbLKC0mN6bKKfbc0
+R2
+IiZjaP^aYB[LS0XJ<E1=[W2
+R3
+S1
+R0
+w1729882336
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory.sv
+!i122 12453
+Z32 L0 1 36
+R5
+r1
+!s85 0
+31
+!s108 1733286339.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory.sv|
+!i113 1
+R6
+vmemory_controller
+R1
+!s110 1733286349
+!i10b 1
+!s100 2>T^9G4MoIK`iP;Q3MAbn0
+R2
+IUX4fTSN=^GBKb:h1kXZm[0
+R3
+S1
+R0
+w1733193987
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory_controller.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory_controller.sv
+!i122 12457
+L0 1 75
+R5
+r1
+!s85 0
+31
+!s108 1733286347.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory_controller.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory_controller.sv|
+!i113 1
+R6
+vmemory_word_32bit
+R1
+!s110 1729705964
+!i10b 1
+!s100 zD3?ifP8DYINDjlAULb7K2
+R2
+IW5hng4W1]`:6>d02XNezY1
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory_word_32bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory_word_32bit.sv
+!i122 10557
+R10
+R5
+r1
+!s85 0
+31
+!s108 1729705962.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory_word_32bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\memory_word_32bit.sv|
+!i113 1
+R6
+vmux
+R1
+!s110 1729705937
+!i10b 1
+!s100 B9X;EW^kl>KAVKG0i42oX2
+R2
+IkehjoMgLONi2I19]UnR661
+R3
+S1
+R0
+w1729022902
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux.sv
+!i122 10542
+R17
+R5
+r1
+!s85 0
+31
+!s108 1729705935.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux.sv|
+!i113 1
+R6
+vmux_16_to_1
+R1
+!s110 1729705938
+!i10b 1
+!s100 EilkGbAckn40GeBZeTTJd1
+R2
+IRKSOb1AX<J0VeALaWTeN;3
+R3
+S1
+R0
+w1727635941
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_16_to_1.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_16_to_1.sv
+!i122 10543
+L0 1 69
+R5
+r1
+!s85 0
+31
+!s108 1729705937.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_16_to_1.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_16_to_1.sv|
+!i113 1
+R6
+vmux_16_to_1_tb
+R1
+!s110 1729705988
+!i10b 1
+!s100 997:G^TnFbbDEkE5QlRo31
+R2
+I54`;2iGoGd`al=Ne5Vb`43
+R3
+S1
+R0
+w1727650269
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_16_to_1_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_16_to_1_tb.sv
+!i122 10571
+L0 1 119
+R5
+r1
+!s85 0
+31
+!s108 1729705986.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_16_to_1_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_16_to_1_tb.sv|
+!i113 1
+R6
+vmux_2_to_1
+R1
+!s110 1729705940
+!i10b 1
+!s100 `=lWb4S_@RbI;M]ELzM<R3
+R2
+IHeLR8SS9<I[CF6C<@G<^K2
+R3
+S1
+R0
+w1727647203
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_2_to_1.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_2_to_1.sv
+!i122 10544
+L0 1 24
+R5
+r1
+!s85 0
+31
+!s108 1729705939.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_2_to_1.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_2_to_1.sv|
+!i113 1
+R6
+vmux_4_to_1
+R1
+!s110 1729705942
+!i10b 1
+!s100 ];:kkZ]`9Sa3WDojMfQSo0
+R2
+I^zKfh<gYMmKWYm=WUE^AF0
+R3
+S1
+R0
+w1727635900
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_4_to_1.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_4_to_1.sv
+!i122 10545
+R31
+R5
+r1
+!s85 0
+31
+!s108 1729705940.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_4_to_1.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_4_to_1.sv|
+!i113 1
+R6
+vmux_4_to_1_tb
+R1
+!s110 1729705990
+!i10b 1
+!s100 c2kH>:EWP`Jz]Jb>6j^f`0
+R2
+I<:Wm<[RCTcL5J1kP;dbio0
+R3
+S1
+R0
+w1727037081
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_4_to_1_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_4_to_1_tb.sv
+!i122 10572
+R15
+R5
+r1
+!s85 0
+31
+!s108 1729705988.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_4_to_1_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_4_to_1_tb.sv|
+!i113 1
+R6
+vmux_8_to_1
+R1
+!s110 1729705944
+!i10b 1
+!s100 I@UjFf6g?QXmQeLnADf=D1
+R2
+I]]gRG3cPeLDBFZOcK[^cK0
+R3
+S1
+R0
+w1727635906
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_8_to_1.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_8_to_1.sv
+!i122 10546
+L0 1 53
+R5
+r1
+!s85 0
+31
+!s108 1729705942.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_8_to_1.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_8_to_1.sv|
+!i113 1
+R6
+vmux_N_bit_length
+R1
+!s110 1729705945
+!i10b 1
+!s100 IHJkhW]M]Mdl]@EIMUHY42
+R2
+IeF?MZR>89=UAZSo^P[VNY1
+R3
+S1
+R0
+w1729027664
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_N_bit_length.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_N_bit_length.sv
+!i122 10547
+L0 1 27
+R5
+r1
+!s85 0
+31
+!s108 1729705944.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_N_bit_length.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_N_bit_length.sv|
+!i113 1
+R6
+nmux_@n_bit_length
+vmux_N_bit_length_tb
+R1
+!s110 1729705992
+!i10b 1
+!s100 JUUS>Z;hm5;Vg>;>2Yic]3
+R2
+I8K;Sc5=aX8Gm4^SSV4ZZU2
+R3
+S1
+R0
+w1729027113
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_N_bit_length_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_N_bit_length_tb.sv
+!i122 10573
+L0 3 75
+R5
+r1
+!s85 0
+31
+!s108 1729705990.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_N_bit_length_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_N_bit_length_tb.sv|
+!i113 1
+R6
+nmux_@n_bit_length_tb
+vmux_N_to_1_bit
+R1
+!s110 1727139722
+!i10b 1
+!s100 X=Y>JG>k<<Mc[6A0^_jg41
+R2
+IO<XaLP]=VE0:fSFZzG[Z80
+R3
+S1
+R0
+w1727139680
+8mux.sv
+Fmux.sv
+!i122 78
+R32
+R5
+r1
+!s85 0
+31
+!s108 1727139722.000000
+Z33 !s107 xor_op.sv|subtractor_tb.sv|subtractor.sv|shift_left_op.sv|shift_left_1_bit.sv|or_op.sv|not_op.sv|mux_submodule_tb.sv|mux_submodule.sv|mux_8_to_1.sv|mux_4_to_1_tb.sv|mux_4_to_1.sv|mux_2_to_1.sv|mux_16_to_1.sv|mux.sv|full_adder.sv|and_op.sv|alu.sv|adder_n_bit_tb.sv|adder_n_bit.sv|
+Z34 !s90 adder_n_bit.sv|adder_n_bit_tb.sv|alu.sv|and_op.sv|full_adder.sv|mux.sv|mux_16_to_1.sv|mux_2_to_1.sv|mux_4_to_1.sv|mux_4_to_1_tb.sv|mux_8_to_1.sv|mux_submodule.sv|mux_submodule_tb.sv|not_op.sv|or_op.sv|shift_left_1_bit.sv|shift_left_op.sv|subtractor.sv|subtractor_tb.sv|xor_op.sv|
+!i113 1
+R6
+nmux_@n_to_1_bit
+vmux_submodule
+R1
+!s110 1729705947
+!i10b 1
+!s100 ZCTo2P2ig4O8kTQ4@<SI13
+R2
+If4iN8ISeW7G^0<SDGeheJ3
+R3
+S1
+R0
+w1727647190
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_submodule.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_submodule.sv
+!i122 10548
+L0 1 26
+R5
+r1
+!s85 0
+31
+!s108 1729705945.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_submodule.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\mux_submodule.sv|
+!i113 1
+R6
+vmux_submodule_tb
+R1
+!s110 1729705994
+!i10b 1
+!s100 el_VKOVA>Kdjo5g]]DFYb1
+R2
+IWEQSL;VBK5eW4d4j1XCRT3
+R3
+S1
+R0
+w1727136906
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_submodule_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_submodule_tb.sv
+!i122 10574
+Z35 L0 3 47
+R5
+r1
+!s85 0
+31
+!s108 1729705992.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_submodule_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_submodule_tb.sv|
+!i113 1
+R6
+vmux_tb
+R1
+!s110 1729705996
+!i10b 1
+!s100 hmTgLN0@XGSJXd?=IK9l^0
+R2
+IJ5ngAP>E;9dJ3oo`bcUge3
+R3
+S1
+R0
+w1727141899
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_tb.sv
+!i122 10575
+L0 3 97
+R5
+r1
+!s85 0
+31
+!s108 1729705994.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\mux_tb.sv|
+!i113 1
+R6
+vname
+R1
+!s110 1727650828
+!i10b 1
+!s100 ^hj?mmf@:52U;g7QBEgG:2
+R2
+I`V7[6cZAT:54]`G2_1CE<3
+R3
+S1
+R0
+w1727203503
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\src\comparison_flags.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\src\comparison_flags.sv
+!i122 1653
+Z36 L0 1 34
+R5
+r1
+!s85 0
+31
+!s108 1727650828.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\src\comparison_flags.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\src\comparison_flags.sv|
+!i113 1
+R6
+vnand_op
+R1
+!s110 1729705902
+!i10b 1
+!s100 Rjd`AZaf=0ZA@KVnI=S0[1
+R2
+IzTmclPmEm]3=A_U4hP1R[0
+R3
+S1
+R0
+w1728436155
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nand_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nand_op.sv
+!i122 10521
+R8
+R5
+r1
+!s85 0
+31
+!s108 1729705900.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nand_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nand_op.sv|
+!i113 1
+R6
+vnor_op
+R1
+!s110 1729705903
+!i10b 1
+!s100 GL8B=7mb]F5=<nz1XSQh<0
+R2
+I?n^eiDigni8SfT6R;BV5E0
+R3
+S1
+R0
+w1728436245
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nor_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nor_op.sv
+!i122 10522
+R8
+R5
+r1
+!s85 0
+31
+!s108 1729705902.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nor_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\nor_op.sv|
+!i113 1
+R6
+vnot_op
+R1
+!s110 1729705905
+!i10b 1
+!s100 UG17o1ke4]nnQz[<D:N>N3
+R2
+I9HbalzkL]gL5;18B^l7A40
+R3
+S1
+R0
+w1727112082
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\not_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\not_op.sv
+!i122 10523
+L0 1 16
+R5
+r1
+!s85 0
+31
+!s108 1729705903.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\not_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\not_op.sv|
+!i113 1
+R6
+vor_n_to_1
+R1
+!s110 1729705949
+!i10b 1
+!s100 2SHXLYfCj]hePm1h8A>Xa0
+R2
+I2]i]1^Sblzia6^LmEOe8l0
+R3
+S1
+R0
+Z37 w1727715661
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\or_n_to_1.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\or_n_to_1.sv
+!i122 10549
+Z38 L0 1 19
+R5
+r1
+!s85 0
+31
+!s108 1729705947.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\or_n_to_1.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\or_n_to_1.sv|
+!i113 1
+R6
+vor_n_to_1_tb
+R1
+!s110 1729705998
+!i10b 1
+!s100 ?_]kf?d<13o[U_1J_G[=91
+R2
+IcO6biInBW1e96P<YjXHjF3
+R3
+S1
+R0
+w1727548789
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\or_n_to_1_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\or_n_to_1_tb.sv
+!i122 10576
+R13
+R5
+r1
+!s85 0
+31
+!s108 1729705996.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\or_n_to_1_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\or_n_to_1_tb.sv|
+!i113 1
+R6
+vor_op
+R1
+!s110 1729705907
+!i10b 1
+!s100 E^Y_BhcQcGaH]1<@E;<kN1
+R2
+IS6IhiiBSWi;2L1F:FV`Co1
+R3
+S1
+R0
+w1727111834
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\or_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\or_op.sv
+!i122 10524
+R8
+R5
+r1
+!s85 0
+31
+!s108 1729705905.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\or_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\or_op.sv|
+!i113 1
+R6
+voverflow
+R1
+!s110 1729705893
+!i10b 1
+!s100 QU2Eaka]LFjMNj5[Vo3hf2
+R2
+IZd0Rj`6<TLzNa[niWQ_322
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\overflow.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\overflow.sv
+!i122 10515
+R14
+R5
+r1
+!s85 0
+31
+!s108 1729705891.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\overflow.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\overflow.sv|
+!i113 1
+R6
+vprocessor
+R1
+!s110 1733286343
+!i10b 1
+!s100 U452U=Ho4`9RAeI6J7X3R2
+R2
+IN:EBb]Dn:P4:8OiGRm9Li1
+R3
+S1
+R0
+w1733112582
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\processor.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\processor.sv
+!i122 12454
+L0 50 317
+R5
+r1
+!s85 0
+31
+!s108 1733286341.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\processor.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\processor.sv|
+!i113 1
+R6
+vprocessor_tb
+R1
+!s110 1731356088
+!i10b 1
+!s100 f0<Pk>X6ElU>Kl80QD9]80
+R2
+Ili><BPfDhjW^;a6>E3<Nd0
+R3
+S1
+R0
+w1729820212
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\processor_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\processor_tb.sv
+!i122 11173
+L0 3 158
+R5
+r1
+!s85 0
+31
+!s108 1731356084.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\processor_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\processor_tb.sv|
+!i113 1
+R6
+vprogram_counter
+R1
+!s110 1729705969
+!i10b 1
+!s100 g?nc@zaiNXG1^KIVoK;R13
+R2
+ImAPQV`VmY>?3=T`=aZOHF2
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter.sv
+!i122 10560
+R19
+R5
+r1
+!s85 0
+31
+!s108 1729705968.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter.sv|
+!i113 1
+R6
+vprogram_counter_tb
+R1
+!s110 1729705971
+!i10b 1
+!s100 X>UgCQEe_>o9CkNN61WDc2
+R2
+I=iiV]JAGcF1:74OgZIdkY0
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter_tb.sv
+!i122 10561
+L0 1 62
+R5
+r1
+!s85 0
+31
+!s108 1729705969.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\program_counter_tb.sv|
+!i113 1
+R6
+vram
+R1
+!s110 1729705966
+!i10b 1
+!s100 RE=Q8@U4llm3W5lT6HLV30
+R2
+I1eCok0c^ST]@i9JF3_lAJ0
+R3
+S1
+R0
+w1728946114
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\ram.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\ram.sv
+!i122 10558
+L0 1 76
+R5
+r1
+!s85 0
+31
+!s108 1729705964.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\ram.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\ram.sv|
+!i113 1
+R6
+vram_tb
+R1
+!s110 1729706003
+!i10b 1
+!s100 Ul_:k>1W@A]_h?8O<TKeX0
+R2
+IdN?7[Yml5MD7mT98U[1CH0
+R3
+S1
+R0
+w1728954045
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\ram_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\ram_tb.sv
+!i122 10579
+L0 1 129
+R5
+r1
+!s85 0
+31
+!s108 1729706001.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\ram_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\ram_tb.sv|
+!i113 1
+R6
+vregister
+R1
+!s110 1729705932
+!i10b 1
+!s100 _PQ[Jz:VBh<X7QTTh@Bbz0
+R2
+IlUde5eFPBoU9F[`_>jdd02
+R3
+S1
+R0
+w1727899090
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\register.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\register.sv
+!i122 10539
+R38
+R5
+r1
+!s85 0
+31
+!s108 1729705930.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\register.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\register.sv|
+!i113 1
+R6
+vregister_32_bit
+R1
+!s110 1728944739
+!i10b 1
+!s100 ^4LR@a:D@H70JH?[V8fzk0
+R2
+I5Pd4TPHKIIFR1N7?;Wn<:1
+R3
+S1
+R0
+w1728607479
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\register_32_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\register_32_bit.sv
+!i122 6250
+L0 1 22
+R5
+r1
+!s85 0
+31
+!s108 1728944738.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\register_32_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\register_32_bit.sv|
+!i113 1
+R6
+vregister_32bit
+R1
+!s110 1729705973
+!i10b 1
+!s100 4?XbgmdZmFccS5AXoiiM@2
+R2
+I`f?Eh^?H^_C1hbND8FON[0
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit.sv
+!i122 10562
+L0 1 29
+R5
+r1
+!s85 0
+31
+!s108 1729705971.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit.sv|
+!i113 1
+R6
+vregister_32bit_tb
+R1
+!s110 1729705974
+!i10b 1
+!s100 1P^_ECHKWkzln6Xc9Ik5K1
+R2
+IT:5>jPiBJiQ<o;;MO6S6F2
+R3
+S1
+R0
+R16
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit_tb.sv
+!i122 10563
+R7
+R5
+r1
+!s85 0
+31
+!s108 1729705973.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\programcounter\register_32bit_tb.sv|
+!i113 1
+R6
+vregister_files
+R1
+!s110 1729705976
+!i10b 1
+!s100 09TlDIFehFi3bJU]V>@P72
+R2
+ID;_^59e9k6]<aNJOI<gF>3
+R3
+S1
+R0
+w1729028314
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\register_files\register_files.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\register_files\register_files.sv
+!i122 10564
+Z39 L0 1 71
+R5
+r1
+!s85 0
+31
+!s108 1729705974.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\register_files\register_files.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\register_files\register_files.sv|
+!i113 1
+R6
+vregister_files_tb
+R1
+!s110 1729706005
+!i10b 1
+!s100 o:=S8da_iCIlAkkao8zZe2
+R2
+I;c6?bDMmTHkMeSnKTJ?Rj2
+R3
+S1
+R0
+w1729029539
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_files_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_files_tb.sv
+!i122 10580
+L0 3 98
+R5
+r1
+!s85 0
+31
+!s108 1729706003.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_files_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_files_tb.sv|
+!i113 1
+R6
+vregister_tb
+R1
+!s110 1729706006
+!i10b 1
+!s100 d4d]DN21lcX3M[kKODn`20
+R2
+I@?T;REPd>?MRL137oRnoP0
+R3
+S1
+R0
+w1727899606
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_tb.sv
+!i122 10581
+L0 1 52
+R5
+r1
+!s85 0
+31
+!s108 1729706005.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\register_tb.sv|
+!i113 1
+R6
+vrom
+R1
+!s110 1729705967
+!i10b 1
+!s100 G?_o<zH2>0zFmH3mIonk52
+R2
+Iz=@IXV:Ni0mQB9I1;^]1Q1
+R3
+S1
+R0
+w1729271853
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\rom.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\rom.sv
+!i122 10559
+R11
+R5
+r1
+!s85 0
+31
+!s108 1729705966.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\rom.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\memory\rom.sv|
+!i113 1
+R6
+vrom_tb
+R1
+!s110 1729706008
+!i10b 1
+!s100 M0^K3A34?^6;TI<FM9Ll]1
+R2
+ICZaj<Vk_Sm=12G_W0n9HX3
+R3
+S1
+R0
+w1729271865
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\rom_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\rom_tb.sv
+!i122 10582
+Z40 L0 1 56
+R5
+r1
+!s85 0
+31
+!s108 1729706006.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\rom_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\rom_tb.sv|
+!i113 1
+R6
+vrotate_left_1_bit
+R1
+!s110 1729705908
+!i10b 1
+!s100 3@P20;b7S;fO75cAgS43[1
+R2
+I7iIPg<1i246OPe;X?Va]80
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_1_bit.sv
+!i122 10525
+Z41 L0 1 21
+R5
+r1
+!s85 0
+31
+!s108 1729705907.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_1_bit.sv|
+!i113 1
+R6
+vrotate_left_op
+R1
+!s110 1729705910
+!i10b 1
+!s100 5B`A7O2na3Un;G^@g_LRK2
+R2
+I2ATH0llRo[^4SV<Qbf1?C2
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_op.sv
+!i122 10526
+Z42 L0 1 59
+R5
+r1
+!s85 0
+31
+!s108 1729705908.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_left_op.sv|
+!i113 1
+R6
+vrotate_right_1_bit
+R1
+!s110 1729705912
+!i10b 1
+!s100 UD^;=[HIFg68=2eKSGhUN1
+R2
+I<PPS4MA3ZgOA5h0E5kIc@3
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_1_bit.sv
+!i122 10527
+R41
+R5
+r1
+!s85 0
+31
+!s108 1729705910.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_1_bit.sv|
+!i113 1
+R6
+vrotate_right_op
+R1
+!s110 1729705914
+!i10b 1
+!s100 SEUgc7WcaYm5zU0Ablanf0
+R2
+Io?JXkm6Hzfd4Gc28OlRTG0
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_op.sv
+!i122 10528
+R42
+R5
+r1
+!s85 0
+31
+!s108 1729705912.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\rotate_right_op.sv|
+!i113 1
+R6
+vshift_left_1_bit
+R1
+!s110 1729705915
+!i10b 1
+!s100 k=k357U8::<O8O3_RTRzh3
+R2
+ICRHbmIX60mKEVD`XKL:<S1
+R3
+S1
+R0
+w1727114661
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_1_bit.sv
+!i122 10529
+R26
+R5
+r1
+!s85 0
+31
+!s108 1729705914.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_1_bit.sv|
+!i113 1
+R6
+vshift_left_op
+R1
+!s110 1729705917
+!i10b 1
+!s100 IBCkd7<L3ZDNFYo[eB8JO0
+R2
+I7UCZ8ig6]lLJX>kilfVBA0
+R3
+S1
+R0
+w1727553131
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_op.sv
+!i122 10530
+R39
+R5
+r1
+!s85 0
+31
+!s108 1729705915.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_left_op.sv|
+!i113 1
+R6
+vshift_left_op_tb
+R1
+!s110 1729706010
+!i10b 1
+!s100 W`bUPOWo6^IY<0b@B0ljV1
+R2
+ISdVDglc6>=XO[MTDj8RY33
+R3
+S1
+R0
+w1727552827
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_left_op_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_left_op_tb.sv
+!i122 10583
+R4
+R5
+r1
+!s85 0
+31
+!s108 1729706008.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_left_op_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_left_op_tb.sv|
+!i113 1
+R6
+vshift_right_1_bit
+R1
+!s110 1729705918
+!i10b 1
+!s100 3:GcfXEeAQPESUaVg;0Rj2
+R2
+INUFDoinCdFozlTkJkB0D@2
+R3
+S1
+R0
+w1727541052
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_1_bit.sv
+!i122 10531
+R38
+R5
+r1
+!s85 0
+31
+!s108 1729705917.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_1_bit.sv|
+!i113 1
+R6
+vshift_right_arith_1_bit
+R1
+!s110 1730135383
+!i10b 1
+!s100 :icPknz?5_dKHf70K4R4b3
+R2
+I[GX]BNgJNg91z0zNVEo]T1
+R3
+S1
+R0
+w1730074384
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\shift_right_arith_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\shift_right_arith_1_bit.sv
+!i122 10933
+R10
+R5
+r1
+!s85 0
+31
+!s108 1730135381.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\shift_right_arith_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operations\shift_right_arith_1_bit.sv|
+!i113 1
+R6
+vshift_right_arith_op
+R1
+!s110 1729705922
+!i10b 1
+!s100 YQ:z<aJ>j7`j8XGH<[e><1
+R2
+Ie2lJ:9<@VNlE7P=AfFCSN3
+R3
+S1
+R0
+w1728429349
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_arith_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_arith_op.sv
+!i122 10533
+Z43 L0 1 70
+R5
+r1
+!s85 0
+31
+!s108 1729705920.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_arith_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_arith_op.sv|
+!i113 1
+R6
+vshift_right_op
+R1
+!s110 1729705923
+!i10b 1
+!s100 FG_j:d;_7mV5H_e;2I1J[0
+R2
+Ike0B6Ea:l6e:@Y5HcVj1K2
+R3
+S1
+R0
+w1727627124
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_op.sv
+!i122 10534
+R43
+R5
+r1
+!s85 0
+31
+!s108 1729705922.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\shift_right_op.sv|
+!i113 1
+R6
+vshift_right_op_tb
+R1
+!s110 1729706012
+!i10b 1
+!s100 HYCWjaPjl5;OYOHn90AWY3
+R2
+IAhLTD[mzSkSI:fCBF_]jO1
+R3
+S1
+R0
+w1727627443
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_right_op_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_right_op_tb.sv
+!i122 10584
+R4
+R5
+r1
+!s85 0
+31
+!s108 1729706010.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_right_op_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\shift_right_op_tb.sv|
+!i113 1
+R6
+vsign_extend
+R1
+!s110 1729705950
+!i10b 1
+!s100 ?cXlg;PKPcW^miYemlTG51
+R2
+IlcXK<YHCYBY[3DlmLBCHV1
+R3
+S1
+R0
+w1729196395
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\sign_extend.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\sign_extend.sv
+!i122 10550
+R19
+R5
+r1
+!s85 0
+31
+!s108 1729705949.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\sign_extend.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\sign_extend.sv|
+!i113 1
+R6
+vsign_extend_tb
+R1
+!s110 1729706013
+!i10b 1
+!s100 zXN9KTU][FRHME_T6__Y02
+R2
+IIP0^i2]a94k]`K^EU;bMk2
+R3
+S1
+R0
+w1729181015
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sign_extend_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sign_extend_tb.sv
+!i122 10585
+R40
+R5
+r1
+!s85 0
+31
+!s108 1729706012.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sign_extend_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sign_extend_tb.sv|
+!i113 1
+R6
+vsoc
+R1
+!s110 1733286339
+!i10b 1
+!s100 cee@6_dCHC22;W5BBUPag2
+R2
+Ii=LOG2XMdZ]]YE^6GGokf0
+R3
+S1
+R0
+w1732855610
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc.sv
+!i122 12452
+L0 1 46
+R5
+r1
+!s85 0
+31
+!s108 1733286337.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc.sv|
+!i113 1
+R6
+vsoc_async
+R1
+!s110 1733286347
+!i10b 1
+!s100 6PVS`0RYfZa;5>?d2Wm3S1
+R2
+I?GBolk6Gkj0<U65bl:S222
+R3
+S1
+R0
+w1733257864
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc_async.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc_async.sv
+!i122 12456
+L0 1 117
+R5
+r1
+!s85 0
+31
+!s108 1733286345.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc_async.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\soc_async.sv|
+!i113 1
+R6
+vsoc_async_load_prime_tb
+R1
+!s110 1733336493
+!i10b 1
+!s100 o<QSdjNF<^[WKSY1zA8LE2
+R2
+IZ=3dWGgbaWXHRU^40K^Q>1
+R3
+S1
+R0
+w1733253787
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_load_prime_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_load_prime_tb.sv
+!i122 12467
+L0 3 340
+R5
+r1
+!s85 0
+31
+!s108 1733336492.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_load_prime_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_load_prime_tb.sv|
+!i113 1
+R6
+vsoc_async_prime_tb
+R1
+!s110 1733336490
+!i10b 1
+!s100 8CT3DQ7GUGDTQWT8MGmiI0
+R2
+I1]Wbbb1]0QE=3im71c;Y@2
+R3
+S1
+R0
+w1733286317
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_prime_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_prime_tb.sv
+!i122 12465
+L0 3 327
+R5
+r1
+!s85 0
+31
+!s108 1733336488.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_prime_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_prime_tb.sv|
+!i113 1
+R6
+vsoc_async_tb
+R1
+!s110 1733114198
+!i10b 1
+!s100 fd@:XQdRMRK]1keIHLKbb0
+R2
+IFXQAi]Y_?fZVnBo1]Bc`O0
+R3
+S1
+R0
+w1733114148
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_tb.sv
+!i122 11829
+L0 3 287
+R5
+r1
+!s85 0
+31
+!s108 1733114196.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_async_tb.sv|
+!i113 1
+R6
+vsoc_load_prime_tb
+R1
+!s110 1733336492
+!i10b 1
+!s100 BaaJ6WnPRLRS[C7ciMQoU3
+R2
+I>SESJdmlmUOkmkTAWWb>P0
+R3
+S1
+R0
+w1733274394
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_load_prime_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_load_prime_tb.sv
+!i122 12466
+L0 3 311
+R5
+r1
+!s85 0
+31
+!s108 1733336490.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_load_prime_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_load_prime_tb.sv|
+!i113 1
+R6
+vsoc_prime_tb
+R1
+!s110 1733336488
+!i10b 1
+!s100 B7[h30J82F=79gZYL<UAV1
+R2
+IB56[Hb]WBYn:`96D_4l_n0
+R3
+S1
+R0
+w1733249144
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_prime_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_prime_tb.sv
+!i122 12464
+L0 3 308
+R5
+r1
+!s85 0
+31
+!s108 1733336487.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_prime_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_prime_tb.sv|
+!i113 1
+R6
+vsoc_tb
+R1
+!s110 1733336487
+!i10b 1
+!s100 ]dZ4c5X4Y9d`g7<L;QX161
+R2
+I^Qlh]cLHTDP9a=M<274eQ1
+R3
+S1
+R0
+w1732037736
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_tb.sv
+!i122 12463
+L0 3 225
+R5
+r1
+!s85 0
+31
+!s108 1733336485.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\soc_tb.sv|
+!i113 1
+R6
+vsr_latch
+R1
+!s110 1729212096
+!i10b 1
+!s100 K5>LCNI8UFG9JPGMe;h0m2
+R2
+I@noga`;1GeSQT5Hio137V2
+R3
+S1
+R0
+w1729212055
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\sr_lacth.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\sr_lacth.sv
+!i122 8194
+R26
+R5
+r1
+!s85 0
+31
+!s108 1729212094.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\sr_lacth.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\sr_lacth.sv|
+!i113 1
+R6
+vsr_latch_tb
+R1
+!s110 1729212197
+!i10b 1
+!s100 :^OXYKPQ;Qh[V1XH6^A2a1
+R2
+I<geh8gNY?TWnPi3OnFPPF2
+R3
+S1
+R0
+w1729211673
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sr_latch_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sr_latch_tb.sv
+!i122 8238
+L0 1 40
+R5
+r1
+!s85 0
+31
+!s108 1729212194.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sr_latch_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\sr_latch_tb.sv|
+!i113 1
+R6
+vsubtractor
+R1
+!s110 1729705925
+!i10b 1
+!s100 JgFV0^?gfgJ;oY:OL29OA1
+R2
+IB^L=4`LG8];m1<7ek3A9E3
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\subtractor.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\subtractor.sv
+!i122 10535
+R36
+R5
+r1
+!s85 0
+31
+!s108 1729705923.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\subtractor.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\subtractor.sv|
+!i113 1
+R6
+vsubtractor_tb
+R1
+!s110 1729706015
+!i10b 1
+!s100 3_9MdRbdSN;@im^TTFE6f0
+R2
+IUF`n9gcaZmLTa1FYU6=H40
+R3
+S1
+R0
+w1727039242
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\subtractor_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\subtractor_tb.sv
+!i122 10586
+R7
+R5
+r1
+!s85 0
+31
+!s108 1729706014.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\subtractor_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\subtractor_tb.sv|
+!i113 1
+R6
+vtb_fifo_memory
+R1
+!s110 1731713083
+!i10b 1
+!s100 PLbM^F[R5`U:60z;c^:aQ2
+R2
+I3`;eQMUgHcDRhhjPb2k>D2
+R3
+S1
+R0
+w1731712991
+R22
+R23
+!i122 11296
+L0 1 82
+R5
+r1
+!s85 0
+31
+!s108 1731713081.000000
+R24
+R25
+!i113 1
+R6
+vtb_mux_4_to_1
+R1
+!s110 1727036766
+!i10b 1
+!s100 R<WMi1S>Vd0XU8:Ai4Hmn3
+R2
+IoD7IYYZH<U^oY[6_f7mZf1
+R3
+S1
+R0
+w1727036691
+8mux_4_to_1_tb.sv
+Fmux_4_to_1_tb.sv
+!i122 45
+R15
+R5
+r1
+!s85 0
+31
+!s108 1727036766.000000
+!s107 mux_4_to_1_tb.sv|mux_4_to_1.sv|mux_2_to_1.sv|full_adder.sv|alu.sv|adder_n_bit_tb.sv|adder_n_bit.sv|
+!s90 adder_n_bit.sv|adder_n_bit_tb.sv|alu.sv|full_adder.sv|mux_2_to_1.sv|mux_4_to_1.sv|mux_4_to_1_tb.sv|
+!i113 1
+R6
+vtb_mux_submodule
+R1
+!s110 1727136836
+!i10b 1
+!s100 QnFGWX]T0g:kQSk5Nj:fk2
+R2
+IE_E7A6]DbJ67AX`jNaRBC2
+R3
+S1
+R0
+w1727136832
+8mux_submodule_tb.sv
+Fmux_submodule_tb.sv
+!i122 67
+R35
+R5
+r1
+!s85 0
+31
+!s108 1727136836.000000
+R33
+R34
+!i113 1
+R6
+vtb_overflow
+R1
+!s110 1729706000
+!i10b 1
+!s100 ;Xa7fdFMWk_CG:nl]12JB1
+R2
+I=`z19_j=J8HXMZ2lzZ8F51
+R3
+S1
+R0
+R37
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\overflow_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\overflow_tb.sv
+!i122 10577
+R15
+R5
+r1
+!s85 0
+31
+!s108 1729705998.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\overflow_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\overflow_tb.sv|
+!i113 1
+R6
+vtristate_buffer
+R1
+!s110 1729705952
+!i10b 1
+!s100 GRaje1XBHC]M^3?e<?_m;0
+R2
+Ie9NF[IkCFm]1CVC4=SWX00
+R3
+S1
+R0
+w1728606975
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\tristate_buffer.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\tristate_buffer.sv
+!i122 10551
+R41
+R5
+r1
+!s85 0
+31
+!s108 1729705950.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\tristate_buffer.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\logic_universal\tristate_buffer.sv|
+!i113 1
+R6
+vtristate_buffer_1_bit
+R1
+!s110 1729705933
+!i10b 1
+!s100 XQi;650?ElA;mJ9@6_P]H2
+R2
+IkZYK]lYd]_mISDza@h9GR2
+R3
+S1
+R0
+w1728606751
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\tristate_buffer_1_bit.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\tristate_buffer_1_bit.sv
+!i122 10540
+L0 1 11
+R5
+r1
+!s85 0
+31
+!s108 1729705932.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\tristate_buffer_1_bit.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\behavioral_components\tristate_buffer_1_bit.sv|
+!i113 1
+R6
+vtristate_buffer_1_bit_tb
+R1
+!s110 1729706017
+!i10b 1
+!s100 CfZ04OUdfm:fz0hmX0aMP2
+R2
+IQOXdfk[2?aMTogh`On?S43
+R3
+S1
+R0
+w1728604830
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_1_bit._tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_1_bit._tb.sv
+!i122 10587
+R32
+R5
+r1
+!s85 0
+31
+!s108 1729706015.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_1_bit._tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_1_bit._tb.sv|
+!i113 1
+R6
+vtristate_buffer_tb
+R1
+!s110 1729706019
+!i10b 1
+!s100 k[n@O_UIZg`?RHzNRNJI;2
+R2
+I6FMHjLlG<<G:CjW^hUFzm3
+R3
+S1
+R0
+w1728606276
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_tb.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_tb.sv
+!i122 10588
+R20
+R5
+r1
+!s85 0
+31
+!s108 1729706017.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_tb.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\testbenches\tristate_buffer_tb.sv|
+!i113 1
+R6
+vxor_op
+R1
+!s110 1729705927
+!i10b 1
+!s100 hcVWPolM;1Fg=[WS?b@>B2
+R2
+Ig;JZmnUmJ6NXaB]J<gHhR2
+R3
+S1
+R0
+w1727111965
+8C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\xor_op.sv
+FC:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\xor_op.sv
+!i122 10536
+R8
+R5
+r1
+!s85 0
+31
+!s108 1729705925.000000
+!s107 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\xor_op.sv|
+!s90 C:\Users\andre\OneDrive\Documents\VScode\ecse_398_cdc\ecse398cdc\modules\alu_operatiuons\xor_op.sv|
+!i113 1
+R6
